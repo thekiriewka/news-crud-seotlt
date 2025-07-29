@@ -1,1 +1,7 @@
-# news-crud-seotlt
+# install
+
+## npm i
+
+# run project
+
+## npm run dev
